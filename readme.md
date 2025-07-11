@@ -69,19 +69,26 @@ Below are the screenshots from the tests:
 
 ## 📦 How to Run
 
-1. Install dependencies:
+1. **Navigate to the project directory:**
+
+   ```bash
+   cd User_api
+   ```
+
+
+2. Install dependencies:
 
    ```bash
    npm install
    ```
 
-2. Start the server:
+3. Start the server:
 
    ```bash
    npm start
    ```
 
-3. Visit: `http://localhost:3000`
+4. Visit: `http://localhost:3000`
 
 ---
 
